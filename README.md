@@ -1,2 +1,2 @@
 # tamandua
-Data processing tools with in the spirit of numpy
+Data processing tools in the spirit of numpy
